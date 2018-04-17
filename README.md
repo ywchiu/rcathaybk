@@ -3,7 +3,9 @@
 ## 環境
 - http://rserver.largitdata.com
 
-- 帳號:user01 ~ user15
+- 帳號:user01 ~ user35
+
+- 密碼: cathay
 
 
 ## 程式碼
