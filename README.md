@@ -14,6 +14,7 @@
 - http://rpubs.com/ywchiu/Demo20180418
 - http://rpubs.com/ywchiu/Demo20180515
 - http://rpubs.com/ywchiu/Demo20180516_3
+- http://rpubs.com/ywchiu/Demo20180517
 
 ## 課前補充
 
